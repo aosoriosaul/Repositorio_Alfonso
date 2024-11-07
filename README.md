@@ -5,7 +5,7 @@
 Work experience:
 
 ## GOOGLE CLOUD (2023 January – 2024 September)
-### APIGEE ENGINEER – Cloud Engineer
+### APIGEE ARCHITECT – Cloud Engineer
 (Technical Onboarding Center)
 
 I teach companies how to use apigeex and how to migrate from an apigee edge, I also teach how to use the shared flows policies and everything related that they should know about apigee x.
